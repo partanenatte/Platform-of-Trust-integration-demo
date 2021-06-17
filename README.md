@@ -4,7 +4,7 @@ Visualization and data integration was made in Smart City project. This developm
 
 # How to use the project
 
-Technical information how to use this project can be found in the .PDF - Platform of Trust Unreal connection documentation.pdf [I'm a relative reference to a repository file](../Platform-of-Trust-integration-demo/Platform of Trust Unreal connection documentation.pdf)
+Technical information how to use this project can be found in the .PDF - Platform of Trust Unreal connection documentation.pdf [I'm a relative reference to a repository file](/Platform-of-Trust-integration-demo/Platform of Trust Unreal connection documentation.pdf)
 
 Required systemspesific thigs are:
 Development is made with Unreal Engine 4.25, might not work with newer versions!
