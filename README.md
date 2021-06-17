@@ -4,12 +4,12 @@ Visualization and data integration was made in Smart City project. This developm
 
 # How to use the project
 
-Technical information how to use this project can be found in the .PDF - Platform of Trust Unreal connection documentation.pdf [I'm a relative reference to a repository file](../Platform-of-Trust-integration-demo/Platform of Trust Unreal connection documentation.pdf)
+Technical information how to use this project can be found in the .PDF - Platform of Trust Unreal connection documentation.pdf [I'm a relative reference to a repository file](../Platform-of-Trust-integration-demo/Platform of Trust Unreal connection documentation)
 
 Required systemspesific thigs are:
 Development is made with Unreal Engine 4.25, might not work with newer versions!
 
 Plugin requred.
-1. [Kantan-charts] (https://www.unrealengine.com/marketplace/en-US/product/kantan-charts)
-2. [low-entry-extended-standard-library] (https://www.unrealengine.com/marketplace/en-US/product/low-entry-extended-standard-library)
-3. [varest-plugin] (https://www.unrealengine.com/marketplace/en-US/product/varest-plugin) 
+1. [Kantan-charts](https://www.unrealengine.com/marketplace/en-US/product/kantan-charts)
+2. [low-entry-extended-standard-library](https://www.unrealengine.com/marketplace/en-US/product/low-entry-extended-standard-library)
+3. [varest-plugin](https://www.unrealengine.com/marketplace/en-US/product/varest-plugin) 
